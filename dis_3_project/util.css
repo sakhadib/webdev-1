@@ -54,7 +54,7 @@
 
 .banner_row{
     height: 40vh;
-    background-image: url('/rsx/home_banner.jpg');
+    background-image: url('rsx/home_banner.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
