@@ -1,0 +1,59 @@
+.bg-ash{
+    background-color: #ebebeb;
+}
+
+
+.doc-image{
+    width: 100%;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.hero-row{
+    background-color: white;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}   
+
+.hero-row:hover{
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.02);
+    transition: all 0.3s ease;
+}
+
+.icon-img{
+    width: 60px;
+}
+
+.bg-red{
+    background-image: url('rsx/red-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.cover{
+    background-color: rgba(0, 0, 0, 0.4);
+    min-height: 60vh;
+}
+
+.left-border{
+    border-left: 5px solid red;
+}
+
+.hero-row2{
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}   
+
+.hero-row2:hover{
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.02);
+    transition: all 0.3s ease;
+}
